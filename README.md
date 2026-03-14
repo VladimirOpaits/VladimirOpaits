@@ -15,6 +15,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![DeepChem](https://img.shields.io/badge/DeepChem-00B4D8?style=for-the-badge)
+![BioPython](https://img.shields.io/badge/BioPython-29A8AB?style=for-the-badge)
 
 ### **Cloud & Infrastructure**
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
